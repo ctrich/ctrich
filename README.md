@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris Richardson</h1>
+<h1 align="center">Hi, I'm Chris Richardson</h1>
 <h3 align="center">A passionate software developer from California</h3>
 <p>I've always had a passion for computers and the technology behind them. While working in semiconductor manufacturing for ten years, I studied coding in my free time & eventually co-founded a video game company, RichBru LLC. This experience encouraged me to pursue a degree in Software Engineering. I graduated with a B.S. in Software Development in 2019. I enjoy working on challenging projects that help me grow my skills & learn new technologies.</p>
 - 📫 How to reach me **ctrich86@yahoo.com**
