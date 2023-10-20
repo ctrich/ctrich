@@ -6,7 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/chrisrDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-richardson-007592172" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chrisrDev/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-richardson-007592172" height="30" width="40" /></a>
+</br>
+<a href="https://chrisrichardson-dev.netlify.app/" target="_blank" rel="noopener noreferrer">https://chrisrichardson-dev.netlify.app/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
